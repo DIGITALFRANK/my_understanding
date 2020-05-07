@@ -1,0 +1,3 @@
+Hive is a ***data warehousing*** tool that works on top of *Hadoop and other distributed file systems*.  Hive was first developed at Facebook and eventually made open sourde and is now one of the project managed by the volunteers of the Apache Software Foundation.
+
+Essentially, Hive is a **big data querying tool** that works by attaching a **defined structured schema** to a distributed file system and running SQL like queries on that file system.  Hive querying language, or `HiveQL`, is similar in syntax to regular old SQL and makes it fairly easy to run advanced query on Big Data which is really its main selling point.  Prior to Hive, running queries on structured Big Data was fairly impossible due to the size limitations of traditional RDBMS 
